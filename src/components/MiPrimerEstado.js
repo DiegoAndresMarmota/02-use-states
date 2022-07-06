@@ -14,7 +14,7 @@ export const MiPrimerEstado = () => {
     const [nombre, setNombre] = useState("Diego Andrés");
 
     const cambiarNombre = e => {
-        setNombre("Max Power");
+        setNombre("Max Powers");
     }
   
     return (
